@@ -11,14 +11,12 @@ tags:
 info: "[[Enlace Químico I.pdf]]"
 estado: completado
 ---
-![[Enlace Químico II.pdf]]
-
 ## ¿Cómo se mantienen unidos los átomos?
 **·** Los átomos son naturalmente inestable, tienen demasiada energía.
 **·** Los átomos necesitan encontrar una forma de "socializar", al unirse con otros átomos participan en un proceso exotérmico.
 **·** **Proceso exotérmico:** Liberan energía para poder alcanzar un estado de mínima energía, necesidad termodinámica par alancazar la paz estructural. ==Libera 40kJ/mol
 
-## Búsqueda de estabilidad
+### Búsqueda de estabilidad
 
 ![[Pasted image 20261011191635.png]]
 Fórmulas de Lewis
@@ -70,3 +68,15 @@ E: Enlaces con otros átomos
 **·** Uniones relativamente débiles para formar redes complejas
 **·** Intensidades más débiles en enlaces iónicos o covalentes
 **·** Estas fuerzas causan que los electrones queden lo más alejados posibles entre ellos y eso es lo que causa la geometría molecular
+### Tipos de fuerzas
+**Fuerzas Ion-Dipolo**
+- Una fuerza entre un ion y la carga parcial de un extremo de una molécula polar (las moléculas polares son dipolos: un extrmo positivo y uno negativo)
+- Importancia en las soluciones de sustancias iónicas en liquidos polares.
+
+**Fuerzas dipolo-dipolo**
+- Una fuerza entre moléculas polares, las moléculas polares se atraen cuando el extremo positivo de una de ellas está cerca del extremo negativo de otra.
+
+**Fuerzas de dispersión de London**
+- Este tipo de interacción se debe a un momento dipolar instantáneo (distridución instantánea es diferente a la distribución media). Ej.: gases no polares licuarse.
+
+**Fuerzas de van der Waals (desviación del comportamiento ideal de los gases)**

@@ -6,8 +6,9 @@ tipo: estudio
 categoria: contenido
 proximo-repaso: 2026-09-29
 tags:
-  - en-progreso
+  - completado
 info:
+estado: completado
 ---
 
 ## Conocimiento del material de laboratorio
